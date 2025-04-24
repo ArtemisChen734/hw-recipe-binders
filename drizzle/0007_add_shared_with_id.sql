@@ -1,0 +1,1 @@
+ALTER TABLE "recipe_shares" ADD COLUMN "shared_with_id" uuid REFERENCES "users"("id") ON DELETE CASCADE; 

@@ -1,0 +1,76 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1730819105705,
+      "tag": "0000_new_christian_walker",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1730981462829,
+      "tag": "0001_bright_spirit",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1745161957378,
+      "tag": "0002_strange_meggan",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1745163642058,
+      "tag": "0003_pale_amazoness",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1745164041310,
+      "tag": "0004_panoramic_nocturne",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1745166018749,
+      "tag": "0005_cute_marvel_zombies",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1745203806888,
+      "tag": "0006_closed_luke_cage",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1745237041785,
+      "tag": "0007_jazzy_maddog",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1745242467480,
+      "tag": "0008_panoramic_junta",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1745242992866,
+      "tag": "0009_puzzling_vampiro",
+      "breakpoints": true
+    }
+  ]
+}
